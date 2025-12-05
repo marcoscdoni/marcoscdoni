@@ -1,5 +1,5 @@
 
-Sou o Marcos, desenvolvedor, curioso e afixionado por tecnologia esde criança. Minha história começou com um Packard Bell, da minha irmã, daqueles com tela de tubo, rodando Windows 95. Eu nunca tinha tido contato com um PC antes, mas era muito curioso, precisava entender como funcionava. Passava horas e horas explorando pastas, diretórios, vendo o que cada extensão de arquivo significava, pra que serviam aqueles arquivos .inf e dlls misteriosas. Foi assim que aprendi a ter visão sistêmica, enxergar o todo e não só partes isoladas.
+Sou o Marcos, desenvolvedor, curioso e afixionado por tecnologia desde criança. Minha história começou com um Packard Bell, da minha irmã, daqueles com tela de tubo, rodando Windows 95. Eu nunca tinha tido contato com um PC antes, mas era muito curioso, precisava entender como funcionava. Passava horas e horas explorando pastas, diretórios, vendo o que cada extensão de arquivo significava, pra que serviam aqueles arquivos .inf e dlls misteriosas. Foi assim que aprendi a ter visão sistêmica, enxergar o todo e não só partes isoladas.
 
 ## 🕰️ Um pouco de história
 
