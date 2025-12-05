@@ -43,8 +43,5 @@ PostgreSQL • SQL Server • Supabase
 N8N • Docker • Git • Chatwoot • API WhatsApp
 
 
-## 🎯 O que me move
-
-Sou curioso sobre como as coisas funcionam. Aquele garoto que explorava cada canto do Windows 95 e que ficava horas tentando fazer a internet funcionar em dois computadores ainda existe, mas agora com ferramentas melhores e mais experiência. Acredito em entender sistemas profundamente, não apenas usar frameworks cegamente. Aprendendo sempre por a tecnologia não para de evoluir.
 
 
