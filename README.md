@@ -3,7 +3,7 @@ Sou o Marcos, desenvolvedor, curioso e afixionado por tecnologia desde criança.
 
 ## 🕰️ Um pouco de história
 
-Vivi toda a evolução tecnológica na pele. Comecei navegando com Netscape, Internet Explorer, passei horas no ICQ, MSN, sobrevivi à internet discada e quando chegou o Speedy com cabo metálico parecia que tinha acontecido uma revolução industrial na minha casa (risos). A diferença era absurda.
+Vivi toda a evolução tecnológica na pele. Comecei navegando com Netscape, Internet Explorer, passei horas no ICQ, MSN, sobrevivi à internet discada e quando chegou o Speedy com cabo metálico parecia que tinha acontecido uma revolução industrial na minha casa (rsrs). A diferença era absurda.
 
 Lembro que quando a internet chegou eu ficava revoltado por não conseguir usar em mais de um computador ao mesmo tempo. Naquela época não existia roteador, a internet era literalmente pra uma máquina só. Foi aí que começaram as sessões infinitas de pesquisa, tentativa e erro. Aprendi a usar ICS do Windows, tentei várias gambiarras pra distribuir a conexão. Foi frustrante mas aprendi muito nesse processo. Acho que foi aí que desenvolvi essa característica de não aceitar limitações e sempre buscar soluções, mesmo que tivesse que destrinchar tudo até entender.
 
