@@ -31,7 +31,7 @@ Atualmente trabalho como Diretor e Programador, unindo a parte administrativa co
 ## 🛠️ Stack atual
 
 **Backend**  
-Node.js • Express • .NET Core • Delphi
+Node.js • Express • .NET Core
 
 **Frontend**  
 Vue.js • JavaScript • TailwindCSS • Vite
@@ -40,8 +40,4 @@ Vue.js • JavaScript • TailwindCSS • Vite
 PostgreSQL • SQL Server • Supabase
 
 **Ferramentas & Automação**  
-N8N • Docker • Git • Chatwoot • API WhatsApp
-
-
-
-
+N8N • Docker • Git • Omnichannel • Chatbots • APIs
