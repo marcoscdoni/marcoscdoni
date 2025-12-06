@@ -17,9 +17,6 @@ Quando começaram a surgir as linguagens e frameworks web compilados, como ASP.N
 
 Hoje as coisas ficaram bem mais fáceis com todas essas ferramentas e frameworks modernos, o que é ótimo, mas às vezes fico pensando que as pessoas podem perder o entendimento do que acontece por debaixo do capô.
 
-
-## 🗄️ Jornada com bancos de dados
-
 Minha experiência com banco de dados vem de longe. Comecei com dBase e Paradox (quem lembra dos famigerados locks de tabela?), depois migrei pra Firebird, MySQL, SQL Server, PostgreSQL, e hoje trabalho com soluções modernas como Supabase. Cada um me ensinou algo diferente sobre gerenciamento de dados e arquitetura de sistemas.
 
 
