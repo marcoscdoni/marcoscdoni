@@ -4,7 +4,7 @@ Desenvolvedor full-stack com mais de 15 anos de experiência construindo sistema
 
 Atualmente atuo como Diretor e Programador, unindo gestão estratégica com desenvolvimento de sistemas. Meu foco agora é transicionar para atuar exclusivamente em TI, aplicando toda essa vivência prática em novos desafios.
 
-**[📖 Leia minha história completa →](sobre-mim.md)**
+**[📖 Leia minha história completa →](aboutme.md)**
 
 ## 🛠️ Stack Técnica
 
