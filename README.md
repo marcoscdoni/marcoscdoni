@@ -1,4 +1,4 @@
-# Bem-Vindo
+# Bem-vindo
 
 Olá, meu nome é Marcos, sou desenvolvedor full-stack com mais de 15 anos de experiência. Minha jornada começou destrinchando um Windows 95 na infância e, desde então, desenvolvi visão sistêmica e paixão por resolver problemas complexos através da tecnologia.
 
