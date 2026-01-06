@@ -46,19 +46,11 @@ Cada sistema me ensinou algo diferente sobre gerenciamento de dados e arquitetur
 
 ## 💼 O que Faço Hoje
 
-Atualmente trabalho como Diretor e Programador, unindo a parte administrativa com o desenvolvimento de sistemas. Ao longo dos anos já passei por RH, financeiro, administração, atendimento e otimização de processos, mas foi na tecnologia que realmente me encontrei.
+Atualmente trabalho como Diretor, com Gestão Estratégica com enfâse em tecnologia e Programador, unindo a parte administrativa com o desenvolvimento e implatação de sistemas. Ao longo dos anos já atuei com atendimento, gestão de pessoas, financeiro, administração, gestão empresarial e direção.
 
 Construí sistemas completos que estão em produção há anos, sempre evoluindo conforme as necessidades do negócio. Meu maior projeto é o **SisAuto**, um sistema completo de gestão para autoescolas que desenvolvi e mantenho. Ele tem área do aluno com acompanhamento em tempo real, notificações via WhatsApp, módulos financeiros integrados, chatbot para atendimento automatizado e gestão completa de processos.
 
-## 🎯 Próximos Passos
 
-Meu foco agora é fazer a transição para atuar exclusivamente na área de TI, colocando toda essa vivência prática a serviço de novos projetos e equipes. Tenho grande interesse em desenvolvimento full-stack com tecnologias modernas, arquitetura de sistemas escaláveis, automação de processos e integrações, soluções de chatbots e atendimento omnichannel, além de DevOps e infraestrutura em containers.
-
-## 🤔 Reflexões
-
-Olhando para trás, percebo que toda essa jornada, desde destrinchar o Windows 95 até desenvolver sistemas empresariais completos, me deu algo que cursos e bootcamps não conseguem ensinar facilmente: a capacidade de resolver problemas do zero, sem medo de errar.
-
-A tecnologia mudou absurdamente, mas a essência continua a mesma: curiosidade, persistência e vontade de entender como as coisas funcionam. E isso, felizmente, nunca vai ficar obsoleto.
 
 
 
