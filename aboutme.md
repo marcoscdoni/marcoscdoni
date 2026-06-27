@@ -1,57 +1,30 @@
-# 📖 Minha História
+# Sobre mim
 
-Sou o Marcos, desenvolvedor, curioso e apaixonado por tecnologia desde criança. Minha história começou com um Packard Bell da minha irmã, daqueles com tela de tubo, rodando Windows 95. Eu nunca tinha tido contato com um PC antes, mas era muito curioso, precisava entender como aquilo funcionava. 
+Comecei com um Packard Bell da minha irmã rodando Windows 95,
+explorando pastas e extensões de arquivo por horas até entender
+como tudo funcionava. Nunca parei de fazer isso.
 
-Passava horas e horas explorando pastas, diretórios, vendo o que cada extensão de arquivo significava, para que serviam aqueles arquivos `.inf` e DLLs misteriosas. Foi assim que aprendi a ter visão sistêmica, enxergar o todo e não só partes isoladas.
+Passei por Pascal, Visual Basic, HTML, ASP clássico, PHP, jQuery
+e fui acompanhando a evolução até as arquiteturas modernas. Esse
+caminho me deu algo mais importante do que conhecer linguagens
+específicas: desenvolvi uma lógica de programação que me permite
+ler, entender e trabalhar com praticamente qualquer sistema.
+Hoje, com as ferramentas de IA disponíveis, isso se traduz em
+produtividade real para qualquer time ou empresa.
 
-## 🕰️ A Revolução Tecnológica que Vivi
+Tenho mais de 20 anos de experiência em gestão administrativa,
+RH e financeiro. Já atuei como diretor, gestor de pessoas,
+analista de processos e desenvolvedor no mesmo ambiente, o que
+me dá uma visão completa de como um negócio funciona. Consigo
+conversar com quem opera, com quem decide e com quem desenvolve,
+e isso faz diferença na hora de estruturar soluções.
 
-Tive o privilégio de vivenciar boa parte do que considero uma verdadeira revolução tecnológica. Comecei navegando com Netscape e Internet Explorer, passei horas no ICQ e MSN, sobrevivi à internet discada e quando chegou o Speedy com cabo metálico parecia que tinha acontecido uma revolução industrial na minha casa (rsrs). A diferença era absurda.
+Meu maior projeto é o SisAuto, um sistema de gestão para
+autoescolas que desenvolvi e mantenho em produção há anos, com
+notificações via WhatsApp, módulos financeiros, chatbot
+automatizado e gestão completa de processos. Foi construído do
+zero, evoluindo conforme as necessidades reais do negócio.
 
-### O Desafio da Conexão Compartilhada
-
-Lembro que quando a internet chegou eu ficava revoltado por não conseguir usar em mais de um computador ao mesmo tempo. Naquela época não existia roteador doméstico, a internet era literalmente para uma máquina só. 
-
-Foi aí que começaram as sessões infinitas de pesquisa, tentativa e erro. Aprendi a usar ICS (Internet Connection Sharing) do Windows, tentei várias gambiarras para distribuir a conexão entre os computadores de casa. Foi frustrante, mas aprendi muito nesse processo. Acho que foi aí que desenvolvi essa característica de não aceitar limitações e sempre buscar soluções, mesmo que tivesse que destrinchar tudo até entender.
-
-### A Saga do Linux
-
-Teve também a fase de tentar instalar Linux. Colocar um Slackware para rodar era quase um ritual de passagem. Seguia tutorial, lia fórum, mexia em partição, editava arquivo de configuração na unha e, no fim, parecia que saía fumaça da cabeça e nada funcionava direito. Placa de vídeo não subia, som não pegava, modem nem se fala.
-
-Mas essas experiências "traumáticas" ajudaram muito a entender sistema operacional de verdade, não só clicar em "próximo" e "concluir". Você tinha que realmente entender drivers, kernel, dependências, compilação. Era difícil, mas formador.
-
-### A Era da Informação Escassa
-
-Naquela época, se você queria aprender algo, tinha que realmente garimpar informações. Não tinha Stack Overflow, nem tutorial no YouTube, nem documentação interativa. Era fórum mal organizado, README mal escrito, e muita paciência. Você precisava ser persistente e criativo para resolver problemas.
-
-## 💻 A Evolução do Desenvolvimento Web
-
-Lembro de construir sites na unha, digitando tag HTML uma por uma. Quando surgiu o Dreamweaver, parecia mágica, você arrastava elementos e ele gerava o código. Experimentei Visual Basic, me apaixonei pela promessa do RAD (Rapid Application Development) do Delphi, coloquei a mão na massa com ASP clássico, PHP, JavaScript.
-
-### Do Estático ao Dinâmico
-
-Montar um site básico era desafio de verdade, você precisava conhecer os fundamentos. As páginas eram em HTML estático e, quando precisávamos de dinamismo, usávamos linguagens processadas no servidor como ASP clássico e PHP, tudo interpretado a cada requisição. Funcionava, mas qualquer detalhe era fatal para o site cair, e performance não era exatamente um ponto forte.
-
-### A Revolução das Linguagens Compiladas
-
-Quando começaram a surgir as linguagens e frameworks web compilados, como ASP.NET e depois outras plataformas mais modernas, foi quase outra revolução. A ideia de ter código compilado, com tipagem mais forte, melhor desempenho e ferramentas de debug decentes parecia coisa de outro mundo comparado ao que fazíamos antes.
-
-Hoje as coisas ficaram bem mais fáceis com todas essas ferramentas e frameworks modernos, o que é ótimo, mas às vezes fico pensando que as pessoas podem perder o entendimento do que acontece por debaixo do capô.
-
-## 🗄️ Minha Jornada com Bancos de Dados
-
-Minha experiência com banco de dados vem de longe. Comecei com dBase e Paradox (quem lembra dos famigerados locks de tabela que travavam tudo?). Depois migrei para Firebird, MySQL, SQL Server, PostgreSQL, e hoje trabalho com soluções modernas como Supabase.
-
-Cada sistema me ensinou algo diferente sobre gerenciamento de dados e arquitetura. O dBase e o Paradox me mostraram o básico de manipulação de dados e os desafios de sistemas multi-usuário. O Firebird trouxe robustez e transações. O MySQL ensinou simplicidade e performance para web. O SQL Server me apresentou ao mundo enterprise-level, com procedures complexas e otimização avançada. O PostgreSQL mostrou flexibilidade, tipos avançados e extensibilidade. E o Supabase representa o Backend-as-a-Service moderno, com real-time e integração perfeita com o ecossistema JavaScript.
-
-## 💼 O que Faço Hoje
-
-Atualmente trabalho como Diretor, com Gestão Estratégica com enfâse em tecnologia e Programador, unindo a parte administrativa com o desenvolvimento e implatação de sistemas. Ao longo dos anos já atuei com atendimento, gestão de pessoas, financeiro, administração, gestão empresarial e direção.
-
-Construí sistemas completos que estão em produção há anos, sempre evoluindo conforme as necessidades do negócio. Meu maior projeto é o **SisAuto**, um sistema completo de gestão para autoescolas que desenvolvi e mantenho. Ele tem área do aluno com acompanhamento em tempo real, notificações via WhatsApp, módulos financeiros integrados, chatbot para atendimento automatizado e gestão completa de processos.
-
-
-
-
-
-**[← Voltar para o perfil principal](README.md)**
+Atualmente estou em busca de uma oportunidade onde eu possa
+combinar tecnologia, visão de negócio e experiência de gestão
+para entregar resultado de forma prática e consistente.
