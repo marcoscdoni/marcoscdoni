@@ -1,28 +1,29 @@
 # Bem-vindo
 
-Olá, meu nome é Marcos, sou desenvolvedor full-stack com mais de 15 anos de experiência. Minha jornada começou destrinchando um Windows 95 na infância e, desde então, desenvolvi visão sistêmica e paixão por resolver problemas complexos através da tecnologia.
+Minha trajetória une gestão e tecnologia de forma muito prática.
+Com experiência em RH, administração, financeiro e direção de
+projetos, desenvolvi uma visão clara de como estruturar processos
+e organizar um negócio.
 
-Atualmente atuo como Diretor e Programador, unindo gestão estratégica com desenvolvimento de sistemas. Meu foco agora é transicionar para atuar exclusivamente em TI, aplicando toda essa vivência prática em novos desafios.
+Fui acompanhando e introduzindo inovações conforme o mercado
+evoluía: desde quando SMS em massa era novidade, até a
+implementação de agentes de IA integrados ao WhatsApp e
+automação de pagamentos via Pix.
 
-**[📖 Leia minha história completa →](aboutme.md)**
+Sou programador desde a adolescência e acompanhei toda a
+evolução da área até as arquiteturas modernas de hoje. Apesar
+de não ter formação tradicional em sistemas, tenho uma visão
+prática de resolução de problemas e otimização de processos
+que complementa bem o lado técnico.
 
-## 🛠️ Stack Técnica
+Acredito que a inteligência artificial veio para somar e
+potencializar a capacidade humana. O valor do profissional
+experiente está justamente na decisão, no contexto e no
+julgamento que nenhuma ferramenta substitui.
 
-**Backend**  
-Node.js • Express • .NET Core
+Estou aberto a novas oportunidades que façam sentido, seja
+em RH, administração, processos operacionais, estruturação
+de equipes ou atuando diretamente no desenvolvimento,
+implantação ou suporte a sistemas.
 
-**Frontend**  
-Vue.js • JavaScript • TailwindCSS • Vite • React (aprendendo)
-
-**Bancos de Dados**  
-PostgreSQL • SQL Server • Supabase
-
-**DevOps & Ferramentas**  
-Docker • Git • N8N • APIs • Chatbots
-
-**Experiência Legacy**  
-Delphi • ASP.NET • PHP • Firebird • MySQL
-
-## 📫 Contato
-
-marcoscdoni@gmail.com
+📖 [Leia minha história completa →](./aboutme.md)
