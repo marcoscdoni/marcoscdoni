@@ -25,5 +25,3 @@ Estou aberto a novas oportunidades que façam sentido, seja
 em RH, administração, processos operacionais, estruturação
 de equipes ou atuando diretamente no desenvolvimento,
 implantação ou suporte a sistemas.
-
-📖 [Leia minha história completa →](./aboutme.md)
